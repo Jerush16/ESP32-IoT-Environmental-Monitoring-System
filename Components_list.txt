@@ -1,0 +1,17 @@
+ESP32 Development Board
+
+DHT22 Temperature and Humidity Sensor
+
+MQ-2 Gas Sensor
+
+Soil Moisture Sensor
+
+HC-SR04 Ultrasonic Sensor
+
+Breadboard
+
+Jumper Wires
+
+USB Cable
+
+Power Supply
