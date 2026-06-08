@@ -29,7 +29,7 @@ conversion, and sensor fault detection so the data is actually actionable:
 
 ## System Architecture
 
-![Circuit Diagram](image/circuit_diagram.png)
+![System_architecture](image/system_architecture.png)
 
 ---
 
@@ -62,7 +62,7 @@ conversion, and sensor fault detection so the data is actually actionable:
 | V4    | Value Display | Distance (cm)     |
 | V5    | LED Widget    | Gas Alert         |
 
-![Circuit Diagram](image/circuit_diagram.png)
+![Dashboard](image/dashboard_screenshot.png)
 
 ---
 
