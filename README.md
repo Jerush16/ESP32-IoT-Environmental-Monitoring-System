@@ -129,4 +129,3 @@ returns -1 gracefully and logs the failure.
 B.E. Electronics and Communication Engineering
 Government College of Engineering, Tirunelveli
 
-[LinkedIn](#) · [GitHub](https://github.com/Jerush16)
